@@ -1,7 +1,7 @@
 pinax-project-social-allauth
 ============================
 
-a starter project for social components based on pinax-project-social (https://github.com/pinax/pinax-project-social/) that adds social authentication login and registration including django-allauth. More info about django-allauth can be found in the (allauth official repository)[https://github.com/pennersr/django-allauth/]
+a starter project for social components based on pinax-project-social (https://github.com/pinax/pinax-project-social/) that adds social authentication login and registration including django-allauth. More info about django-allauth can be found in the [allauth official repository](https://github.com/pennersr/django-allauth/)
 
 Example usage
 =============
