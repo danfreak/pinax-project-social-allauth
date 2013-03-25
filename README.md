@@ -9,7 +9,7 @@ Example usage
     $ virtualenv mysite
     $ source mysite/bin/activate
     (mysite)$ pip install Django==1.4.5
-    (mysite)$ django-admin.py startproject --template=https://github.com/danfreak/pinax-project-social-allauth/zipball/master mysite
+    (mysite)$ django-admin.py startproject --template=https://github.com/danfreak/pinax-project-social-allauth/zipball/django_1.5 mysite
     (mysite)$ cd mysite
     (mysite)$ pip install -r requirements.txt
     (mysite)$ python manage.py syncdb
