@@ -17,7 +17,7 @@ Example usage
 
 Hit http://127.0.0.1:8000 to view the site!
 
-To enable the social login/signup feature uncomment the providers you are interested in the [settings.py](https://github.com/danfreak/pinax-project-social-allauth/blob/master/project_name/settings.py#L143) file. You should then login into your project admin backend at http://127.0.0.1:8000/admin and setup 
+To enable the social login/signup feature uncomment the providers you are interested in the [settings.py](https://github.com/danfreak/pinax-project-social-allauth/blob/master/project_name/settings.py#L143) file. You should then login into your project admin backend at http://127.0.0.1:8000/admin and setup the Social apps (http://127.0.0.1:8000/admin/socialaccount/socialapp/) parameters (consumer_key, consumer_secret, etc) for the providers you have enabled in the settings file.
 
 An extensive guide about setting up providers can be found on the [django-allauth page](https://github.com/pennersr/django-allauth#providers)
 
